@@ -9,9 +9,42 @@ Welcome to my GitHub profile! Here's a bit about me:
   
 Feel free to explore my repositories and reach out if you'd like to work together or just say hi!
 
+## 💻 Tech Stack  
+
+### 📊 Data Visualisation  
+![Metabase](https://img.shields.io/badge/Metabase-%20Proficient-brightgreen)  
+![Power BI](https://img.shields.io/badge/Power%20BI-%20Intermediate-blue)  
+![Tableau](https://img.shields.io/badge/Tableau-%20Basic-yellow)  
+![Firebase](https://img.shields.io/badge/Firebase-%20Intermediate-blue)  
+![Amplitude](https://img.shields.io/badge/Amplitude-%20Proficient-brightgreen)  
+
+### 🗄️ Database  
+![MySQL](https://img.shields.io/badge/MySQL%20DBMS-%20Intermediate-blue)  
+![SQL](https://img.shields.io/badge/SQL-%20Intermediate-blue)  
+![dbt](https://img.shields.io/badge/dbt-%20Basic-yellow)  
+![Redshift](https://img.shields.io/badge/Redshift-%20Basic-yellow)  
+![AWS S3](https://img.shields.io/badge/AWS%20S3-%20Basic-yellow)  
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%20Intermediate-blue)  
+
+### 🌐 Web  
+![HTML](https://img.shields.io/badge/HTML%20&%20CSS-%20Basic-yellow)  
+
+### 🖥️ Programming  
+![Java](https://img.shields.io/badge/Java-%20Proficient-brightgreen)  
+![Python](https://img.shields.io/badge/Python-%20Proficient-brightgreen)  
+![R](https://img.shields.io/badge/R-%20Proficient-brightgreen)  
+
+### ⚙️ Scripting  
+![JavaScript](https://img.shields.io/badge/JavaScript-%20Basic-yellow)  
+
+### 🎨 UI/UX Design  
+![Figma](https://img.shields.io/badge/Figma-%20Intermediate-blue)  
+
+
+
 ## 📌 Pinned Projects  
 
-### 🚀 [HackJakarta Project](https://github.com/seandias/hackjakarta)  
+### 🚀 [Grab Ambulance Project](https://github.com/seandias/hackjakarta)  
 - Developed systems using APIs to identify medical emergencies, locate nearby hospitals, and alert drivers about approaching ambulances, with potential integration of Grab's mapping feature for improved accuracy.
 - **Tech**: Python
 
