@@ -9,8 +9,6 @@ Welcome to my GitHub profile! Here's a bit about me:
   
 Feel free to explore my repositories and reach out if you'd like to work together or just say hi!
 
-## 🚀 Projects
-
 ## 📌 Pinned Projects  
 
 ### 🚀 [HackJakarta Project](https://github.com/seandias/hackjakarta)  
@@ -28,12 +26,6 @@ Feel free to explore my repositories and reach out if you'd like to work togethe
 ### 🛍️ [Product Recommendation System](https://github.com/your-username/Product-Recommendation-System)  
 - Developed a recommendation engine to suggest products based on user preferences and web usage data.  
 - **Tech**: Python (Pandas)
-
-
-[![Project 1](https://img.shields.io/badge/Project-Project1-blue)](https://github.com/seandias/hackjakarta)
-[![Project 2](https://img.shields.io/badge/Project-Project2-green)](https://github.com/sivaadharsh28/clinic_finder)
-[![Project 3](https://img.shields.io/badge/Project-Project3-green)](https://github.com/sivaadharsh28/Diabetes-Prediction-Analysis)
-[![Project 4](https://img.shields.io/badge/Project-Project4-green)](https://github.com/sivaadharsh28/Product-Recommendation-System)
 
 
 
