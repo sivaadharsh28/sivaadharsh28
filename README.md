@@ -8,38 +8,50 @@ Welcome to my GitHub profile! Here's a bit about me:
 - ⚡ **Fun fact**: I am a professional inline skating coach. I also occasionally play the keyboard and jam to the newest songs with my friends.
   
 Feel free to explore my repositories and reach out if you'd like to work together or just say hi!
-
 ## 💻 Tech Stack  
 
 ### 📊 Data Visualisation  
-![Metabase](https://img.shields.io/badge/Metabase-%20Proficient-brightgreen)  
-![Power BI](https://img.shields.io/badge/Power%20BI-%20Intermediate-blue)  
-![Tableau](https://img.shields.io/badge/Tableau-%20Basic-yellow)  
-![Firebase](https://img.shields.io/badge/Firebase-%20Intermediate-blue)  
-![Amplitude](https://img.shields.io/badge/Amplitude-%20Proficient-brightgreen)  
+<p align="left">
+  <img src="https://metabase.com/images/logo.svg" alt="Metabase" width="48" title="Metabase"/>  
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI"/>  
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" title="Tableau"/>  
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/>  
+  <img src="https://scontent.fsin15-2.fna.fbcdn.net/v/t39.30808-6/278076378_1914364572087969_3407536474882738938_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=gsSxSq2TK_AQ7kNvgF6cXBc&_nc_zt=23&_nc_ht=scontent.fsin15-2.fna&_nc_gid=AQVPI86JbTgDTBHefN4SXcB&oh=00_AYDFL_zKH4yb-4hQB4ujx2ExD4JuAlcOGZOgEw9ghacwqQ&oe=6767508D" alt="Amplitude" width="48" title="Amplitude"/>  
+</p>
 
 ### 🗄️ Database  
-![MySQL](https://img.shields.io/badge/MySQL%20DBMS-%20Intermediate-blue)  
-![SQL](https://img.shields.io/badge/SQL-%20Intermediate-blue)  
-![dbt](https://img.shields.io/badge/dbt-%20Basic-yellow)  
-![Redshift](https://img.shields.io/badge/Redshift-%20Basic-yellow)  
-![AWS S3](https://img.shields.io/badge/AWS%20S3-%20Basic-yellow)  
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%20Intermediate-blue)  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>  
+  <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="SQL" title="SQL"/>  
+  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="36" title="dbt"/>  
+  <img src="https://logowik.com/content/uploads/images/aws-redshift2026.jpg" alt="Redshift" width="48" title="Redshift"/>  
+  <img src="https://img.icons8.com/color/48/000000/amazon-s3.png" alt="AWS S3" title="AWS S3"/>  
+  <img src="https://assets.datamation.com/uploads/2018/09/apache_airflow-icon.png" alt="Apache Airflow" width="48" title="Apache Airflow"/>  
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud Platform"/>
+</p>
 
 ### 🌐 Web  
-![HTML](https://img.shields.io/badge/HTML%20&%20CSS-%20Basic-yellow)  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML"/>  
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/>  
+</p>
 
 ### 🖥️ Programming  
-![Java](https://img.shields.io/badge/Java-%20Proficient-brightgreen)  
-![Python](https://img.shields.io/badge/Python-%20Proficient-brightgreen)  
-![R](https://img.shields.io/badge/R-%20Proficient-brightgreen)  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>  
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>  
+  <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="48" title="R"/>  
+</p>
 
 ### ⚙️ Scripting  
-![JavaScript](https://img.shields.io/badge/JavaScript-%20Basic-yellow)  
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript"/>  
+</p>
 
 ### 🎨 UI/UX Design  
-![Figma](https://img.shields.io/badge/Figma-%20Intermediate-blue)  
-
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" title="Figma"/>  
+</p>
 
 
 ## 📌 Pinned Projects  
