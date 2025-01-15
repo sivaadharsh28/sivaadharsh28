@@ -16,14 +16,14 @@ Feel free to explore my repositories and reach out if you'd like to work togethe
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI"/>  
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" title="Tableau"/>  
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/>  
-  <img src="https://scontent.fsin15-2.fna.fbcdn.net/v/t39.30808-6/278076378_1914364572087969_3407536474882738938_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=gsSxSq2TK_AQ7kNvgF6cXBc&_nc_zt=23&_nc_ht=scontent.fsin15-2.fna&_nc_gid=AQVPI86JbTgDTBHefN4SXcB&oh=00_AYDFL_zKH4yb-4hQB4ujx2ExD4JuAlcOGZOgEw9ghacwqQ&oe=6767508D" alt="Amplitude" width="48" title="Amplitude"/>  
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/amplitude_logo_icon_168655.png" alt="Amplitude" width="48" title="Amplitude"/>  
 </p>
 
 ### 🗄️ Database  
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>  
   <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="SQL" title="SQL"/>  
-  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="36" title="dbt"/>  
+  <img src="https://images.seeklogo.com/logo-png/43/1/dbt-logo-png_seeklogo-431111.png?v=1957906730599864760" alt="dbt" width="36" title="dbt"/>  
   <img src="https://logowik.com/content/uploads/images/aws-redshift2026.jpg" alt="Redshift" width="48" title="Redshift"/>  
   <img src="https://img.icons8.com/color/48/000000/amazon-s3.png" alt="AWS S3" title="AWS S3"/>  
   <img src="https://assets.datamation.com/uploads/2018/09/apache_airflow-icon.png" alt="Apache Airflow" width="48" title="Apache Airflow"/>  
