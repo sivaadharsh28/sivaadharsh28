@@ -61,7 +61,7 @@ Feel free to explore my repositories and reach out if you'd like to work togethe
 **Features**
 - Low-cost multi-currency premium payments and claim payouts leveraging the native multi-currency conversion feature of XRP
 - Quick and easy claims process with the parametric insurance feature where trackable incidents like flight delays or cancellations will trigger an immediate payout to the user through a smart contract written on the EVM side chain. 
-- **Tech**: Python, Java, Remix
+- **Tech**: Node.js, Express.js, MongoAtlas, Remix
 
 ### 🚑 [Grab Ambulance Project](https://github.com/seandias/hackjakarta)  
 - Developed systems using APIs to identify medical emergencies, locate nearby hospitals, and alert drivers about approaching ambulances, with potential integration of Grab's mapping feature for improved accuracy.
