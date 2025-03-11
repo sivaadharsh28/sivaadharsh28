@@ -16,7 +16,6 @@ Feel free to explore my repositories and reach out if you'd like to work togethe
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI"/>  
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" title="Tableau"/>  
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/>  
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/amplitude_logo_icon_168655.png" alt="Amplitude" width="48" title="Amplitude"/>  
 </p>
 
 ### 🗄️ Database  
