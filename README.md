@@ -67,15 +67,15 @@ Feel free to explore my repositories and reach out if you'd like to work togethe
 - Developed systems using APIs to identify medical emergencies, locate nearby hospitals, and alert drivers about approaching ambulances, with potential integration of Grab's mapping feature for improved accuracy.
 - **Tech**: Python
 
-### 🏥 [Clinic Finder](https://github.com/your-username/clinic_finder)  
+### 🏥 [Clinic Finder](https://github.com/sivaadharsh28/clinic_finder)  
 - Designed a telegram bot to help clients of an insurance company locate their nearest approved clinics efficiently
 - **Tech**: Python, Flask, Render, Google Maps API
 
-### 🔍 [Diabetes Prediction Analysis](https://github.com/your-username/Diabetes-Prediction-Analysis)  
+### 🔍 [Diabetes Prediction Analysis](https://github.com/sivaadharsh28/Diabetes-Prediction-Analysis)  
 - Built and evaluated multiple classification models to predict diabetes outcomes based on patient data.  
 - **Tech**: R  
 
-### 🛍️ [Product Recommendation System](https://github.com/your-username/Product-Recommendation-System)  
+### 🛍️ [Product Recommendation System](https://github.com/sivaadharsh28/Product-Recommendation-System)  
 - Developed a recommendation engine to suggest products based on user preferences and web usage data.  
 - **Tech**: Python (Pandas)
 
