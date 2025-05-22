@@ -22,7 +22,6 @@ Feel free to explore my repositories and reach out if you'd like to work togethe
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>  
   <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="SQL" title="SQL"/>  
-  <img src="https://images.seeklogo.com/logo-png/43/1/dbt-logo-png_seeklogo-431111.png?v=1957906730599864760" alt="dbt" width="36" title="dbt"/>  
   <img src="https://logowik.com/content/uploads/images/aws-redshift2026.jpg" alt="Redshift" width="48" title="Redshift"/>  
   <img src="https://img.icons8.com/color/48/000000/amazon-s3.png" alt="AWS S3" title="AWS S3"/>  
   <img src="https://assets.datamation.com/uploads/2018/09/apache_airflow-icon.png" alt="Apache Airflow" width="48" title="Apache Airflow"/>  
