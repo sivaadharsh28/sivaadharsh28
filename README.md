@@ -56,9 +56,8 @@ Feel free to explore my repositories and reach out if you'd like to work togethe
   
 ### ✈️ [Ripple Shield - XRPL Backed Travel Insurance](https://github.com/sivaadharsh28/welovefintech) 
 - Developed an XRPL-backed Travel Insurance application, leveraging the EVM side chain for smart contract functionalities.
-**Features**
 - Low-cost multi-currency premium payments and claim payouts leveraging the native multi-currency conversion feature of XRP
-- Quick and easy claims process with the parametric insurance feature where trackable incidents like flight delays or cancellations will trigger an immediate payout to the user through a smart contract written on the EVM side chain. 
+- Quick and easy claims process with the parametric insurance feature where trackable incidents like flight delays or cancellations will trigger an immediate payout to the user through a smart contract written on the EVM side chain.
 - **Tech**: Node.js, Express.js, MongoAtlas, Remix
 
 ### 🚑 [Grab Ambulance Project](https://github.com/seandias/hackjakarta)  
