@@ -43,7 +43,8 @@ Feel free to explore my repositories and reach out if you'd like to work togethe
 
 ### ⚙️ Scripting  
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript"/>  
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript--v1.png" alt="TypeScript" title="TypeScript"/> 
 </p>
 
 ### 🎨 UI/UX Design  
